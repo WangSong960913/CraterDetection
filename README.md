@@ -17,19 +17,19 @@ pip install requirement.txt
 
 ## Generate Data
 
-python gen_data.py 
+`python gen_data.py` 
 
 train data : set   save_name="./data/train" number=30000 ;valid data : save_name="./data/valid" set  number=3000;test data : save_name="./data/dev" set  number=3000
 
 ## Train
 
-python train.py
+`python train.py`
 
 you can adjust train image number, batch size, epochs and model save path in train.py.If you want to change model, you can change code in model_train.py. (dlinknet,linknet,unet,deep residual net,simple-resunet)
 
 ## Detect
 
-python run_extract_craters.py
+`python run_extract_craters.py`
 
 You should change model_Name value in run_extract_craters.py to chose your trained model. 
 
