@@ -37,9 +37,10 @@ You should change model_Name value in run_extract_craters.py to chose your train
 
 The trained model can be downloaded in  https://pan.baidu.com/s/1eSpBLrA-Upqr5qjf6__r8w.
 
-![1574431819461](C:\Users\vs\AppData\Roaming\Typora\typora-user-images\1574431819461.png)
 
-![1574431830956](C:\Users\vs\AppData\Roaming\Typora\typora-user-images\1574431830956.png)
+ ![image](https://github.com/WangSong960913/CraterDetection/tree/master/data/img1.png)
+ ![image](https://github.com/WangSong960913/CraterDetection/tree/master/data/img2.png)
+
 
 | Model     | Simple-ResUNet | Simple-ResUNet-2 | Ari.S[19]   | Deep   Residual   U-Net [21] |
 | --------- | -------------- | ---------------- | ----------- | ---------------------------- |
