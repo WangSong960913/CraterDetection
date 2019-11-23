@@ -38,8 +38,8 @@ You should change model_Name value in run_extract_craters.py to chose your train
 The trained model can be downloaded in  https://pan.baidu.com/s/1eSpBLrA-Upqr5qjf6__r8w.
 
 
- ![image](https://github.com/WangSong960913/CraterDetection/blob/master/data/img1.png)
- ![image](https://github.com/WangSong960913/CraterDetection/blob/master/data/img2.png)
+ ![image](https://github.com/WangSong960913/CraterDetection/data/img1.png)
+ ![image](https://github.com/WangSong960913/CraterDetection/data/img2.png)
 
 
 | Model     | Simple-ResUNet | Simple-ResUNet-2 | Ari.S[19]   | Deep   Residual   U-Net [21] |
