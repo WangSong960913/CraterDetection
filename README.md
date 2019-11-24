@@ -13,7 +13,7 @@ Finally, we draw the images of recognized craters and record the location and ra
 
 Our code is based on python3.6. We use Keras [24] as the deep learning framework.
 
-pip install requirement.txt
+pip install -r requirement.txt
 
 ## Generate Data
 
