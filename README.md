@@ -2,6 +2,7 @@
 Crater detection algorithm based on deep learning and semantic segmentation
 
 Our paper is being submitted. We will publish the link after the paper is published.
+Thank you for your attation. Our paper was published on Remote Sening. You can find it in  https://doi.org/10.3390/rs12172694.
 
  Our algorithm contains three main steps. 
 Firstly, We need to generate experiment data.Our original moon DEM image can download in https://pan.baidu.com/s/1eSpBLrA-Upqr5qjf6__r8w.  and We random clipe the lunar DEM image to generate data. 
