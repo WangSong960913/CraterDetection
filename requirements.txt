@@ -2,7 +2,7 @@ Cartopy==0.17.0
 h5py==2.6.0
 Keras-gpu==2.0.5
 numpy==1.12.1
-opencv-python==3.2.0.6
+opencv-python==3.4.7.28
 pandas==0.19.1
 Pillow==6.2.1
 scikit-image==0.12.3
