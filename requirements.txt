@@ -7,4 +7,4 @@ pandas==0.19.1
 Pillow==6.2.1
 scikit-image==0.12.3
 tables==3.4.2
-tensorflow-gpu==1.9
+tensorflow-gpu==2.9.3
